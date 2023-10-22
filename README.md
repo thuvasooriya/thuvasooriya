@@ -23,7 +23,19 @@
 &nbsp
 <img src="https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white" />
 &nbsp
-<img src="" />
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+</p>
+
+<p align="center"> 
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+&nbsp
+<img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white" />
+&nbsp
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" />
+&nbsp
+<img src="https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+&nbsp
+<img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
 </p>
 
 <!-- Social Profiles -->
@@ -39,6 +51,8 @@
 <a href="https://open.spotify.com/user/31557wv7breljjzr744htxbumd7a" target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="thuvasooriya" /></a>
 &nbsp
 <a href="https://pinterest.com/thuvasooriya" target="blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="thuvasooriya" /></a>
+&nbsp
+<a href="https://pinterest.com/thuvasooriya" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="thuvasooriya" /></a>
 &nbsp
 <a href="https://youtube.com/channel/thuvaragan28" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="thuvasooriya" /></a>
 </p>
