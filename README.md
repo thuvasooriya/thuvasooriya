@@ -37,15 +37,15 @@
 </p>
 
 <!-- Social Profiles -->
-<h3 align="center">You can find me here</h3>
+<h3 align="center">Special places to find out about me</h3>
 
 <p align="center"> 
-<a href="https://x.com/thuvasooriya" target="blank"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" alt="thuvasooriya" /></a>
+<!-- <a href="https://x.com/thuvasooriya" target="blank"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" alt="thuvasooriya" /></a>
 &nbsp
 <a href="https://linkedin.com/in/thuvasooriya" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="thuvasooriya" /></a>
 &nbsp
 <a href="https://instagram.com/thuvasooriya" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="thuvasooriya" /></a>
-&nbsp
+&nbsp -->
 <a href="https://open.spotify.com/user/31557wv7breljjzr744htxbumd7a" target="blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" alt="thuvasooriya" /></a>
 &nbsp
 <a href="https://pinterest.com/thuvasooriya" target="blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="thuvasooriya" /></a>
