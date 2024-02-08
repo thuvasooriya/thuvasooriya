@@ -50,7 +50,7 @@
 &nbsp
 <a href="https://pinterest.com/thuvasooriya" target="blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="thuvasooriya" /></a>
 &nbsp
-<a href="https://pinterest.com/thuvasooriya" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="thuvasooriya" /></a>
+<a href="https://discord.gg/x782mhTp8J" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="thuvasooriya" /></a>
 &nbsp
-<a href="https://youtube.com/channel/thuvaragan28" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="thuvasooriya" /></a>
+<a href="http://www.youtube.com/@thuvasooriya" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="thuvasooriya" /></a>
 </p>
