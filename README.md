@@ -1,11 +1,6 @@
 <h1 align="center">Hi there 👋🏽, I'm Thuva Sooriya</h1>
 
-- 🚀 I’m currently having some fun with...
-  - Data structures and algorithms in cpp
-  - Image segmentation and classification with python
-  - Writing a compiler in zig
-  - Planning for personal blog
-  - Looking for a girl**friend**
+- Restructuring Goals... will get back later
 
 <h2 align="center">Random Things I Love</h2>
 <p align="center"> 
