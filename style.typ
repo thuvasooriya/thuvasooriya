@@ -16,7 +16,7 @@
   fa-icon("github", fill: color-darknight),
 )
 #let twitter-icon = box(
-  fa-icon("twitter", fill: color-darknight),
+  fa-icon("x-twitter", fill: color-darknight),
 )
 #let google-scholar-icon = box(
   fa-icon("google-scholar", fill: color-darknight),
