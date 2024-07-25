@@ -24,12 +24,10 @@
 )
 
 
-A simple human from planet earth, who loves to integrate art, science and technology to create a smile in the face of others. Have moderate experience with graphic manipulation, web development, low level programming, robotics, digital design and performance optimization. Currently obsessed with RISC-V and open-source digital-design tool-chains. 
-
+A simple human from planet earth, who loves to integrate art, science and technology to create a smile in the face of others. Moderate experience in graphic manipulation, web development, low level programming, robotics, digital design and performance optimization. 
+Currently obsessed with RISC-V and open-source digital design tool-chains. 
 
 = Projects
-
-
 
 #resume-entry(
   title: "ViT Accelerator IP for a custom RISC-V core in FPGA",
@@ -171,6 +169,7 @@ A simple human from planet earth, who loves to integrate art, science and techno
 
 #resume-entry(
   title: "BSc. in Engineering - Electronics and Telecommunication",
+  title-link: "https://ent.uom.lk/",
   location: "Colombo, SriLanka",
   date: "2021 - Present",
   description: "University of Moratuwa",
@@ -186,6 +185,7 @@ A simple human from planet earth, who loves to integrate art, science and techno
 
 #resume-entry(
   title: "Embedded Product Design for IoT",
+  title-link: "https://www.skillsurf.lk/embedded-product-design",
   location: "Colombo, SriLanka",
   date: "Aug 2023 - Nov 2023",
   description: "Short course by ENTC department UoM with Skillsurf.lk",
@@ -197,6 +197,7 @@ A simple human from planet earth, who loves to integrate art, science and techno
 
 #resume-entry(
   title: "System {Verilog} for ASIC/FPGA Design & Simulation",
+  title-link: "https://www.skillsurf.lk/verilog-for-ASIC-FPGA-design-simulation",
   location: "Colombo, SriLanka",
   date: "Jan 2023 - May 2023",
   description: "Short course by ENTC department UoM with Skillsurf.lk",
@@ -209,6 +210,7 @@ A simple human from planet earth, who loves to integrate art, science and techno
 
 #resume-entry(
   title: "Full Stack Web Development (MERN Stack)",
+  title-link: "https://www.yarlithub.org/uki/#",
   location: "Jaffna, SriLanka",
   date: "Feb 2021 - July 2021",
   description: "Uki Coding School - Digital Cohort 1",
@@ -216,7 +218,8 @@ A simple human from planet earth, who loves to integrate art, science and techno
 
 
 #resume-entry(
-  title: "Primary Education",
+  title: "Secondary Education",
+  title-link: "https://www.facebook.com/JaffnaHinducollegeOfficial/",
   location: "Jaffna, SriLanka",
   date: "2011 - 2020",
   description: "Jaffna Hindu College | G.C.E. OL - 9A | G.C.E. AL - 3A",
@@ -255,14 +258,23 @@ A simple human from planet earth, who loves to integrate art, science and techno
 
 = References
 
+// #resume-entry(
+//   title: "Sayanthi. R",
+//   location: "sayanthiselvarasa@gmail.com",
+//   description: "Assoiate Lecturer, Uki Coding School",
+// )
+
+
 #resume-entry(
-  title: "Sayanthi. R",
-  location: "sayanthiselvarasa@gmail.com",
-  description: "Assoiate Lecturer, Uki Coding School",
+  title: "Dr. Ranga Rodrigo",
+  location: "ranga@uom.lk",
+  description: "B.Sc. Eng. Hons. (Moratuwa), M.E.Sc. (Western, Canada), Ph.D. (Western, Canada), SMIEEE \nSenior Lecturer, University of Moratuwa",
+  title-link: "https://ent.uom.lk/team/dr-ranga-rodrigo/"
 )
 
 #resume-entry(
-  title: "Senthilmaran. R",
+  title: "Senthilmaran Ratnam",
   location: "senthilmaran@gmail.com",
   description: "Principal, Jaffna Hindu College | LLB Law Hons.",
+  title-link: "https://www.linkedin.com/in/senthilmaran-ratnam-387aa459/"
 )
