@@ -1,8 +1,8 @@
-<h1 align="center">Hi there 👋🏽, I'm Thuva Sooriya</h1>
+<h1 align="center">hi there! (＾▽＾) i'm thuva</h1>
 
-- Restructuring Goals... will get back later
+have moderate experience with graphic manipulation, web development, low-level programming, robotics, digital design and performance optimization. currently obsessed with risc‑v and open‑source digital‑design tool‑chains.
 
-<h2 align="center">Random Things I Love</h2>
+<h2 align="center">random things i love</h2>
 <p align="center"> 
 <img src="https://img.shields.io/badge/zig-FFAD00?style=for-the-badge&logo=zig&logoColor=black&stringColor=black" />
 &nbsp
@@ -37,7 +37,7 @@
 </p>
 
 <!-- Social Profiles -->
-<h3 align="center">Special places to find out about me</h3>
+<h3 align="center">special places to find me</h3>
 
 <p align="center"> 
 <!-- <a href="https://x.com/thuvasooriya" target="blank"><img src="https://img.shields.io/badge/X-000?style=for-the-badge&logo=x&logoColor=white" alt="thuvasooriya" /></a>
