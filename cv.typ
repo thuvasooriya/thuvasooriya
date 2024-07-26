@@ -87,7 +87,7 @@ Currently obsessed with RISC-V and open-source digital design tool-chains.
 ]
 
 #resume-entry(
-  title: "Portable doctor companion",
+  title: "Portable doctor companion device with SBC",
   location: github-link("biosense-ai/biosense-ai-web-server"),
   date: "Aug 2023 - Oct 2023",
   description: "Mecha 23 - 2nd Runner Up",
@@ -113,7 +113,7 @@ Currently obsessed with RISC-V and open-source digital design tool-chains.
 ]
 
 #resume-entry(
-  title: "Analog ECG Monitor Development",
+  title: "Analog ECG monitor PCB development",
   // location: github-link("biosense-ai/biosense-ai-web-server"),
   date: "Aug 2023 - Oct 2023",
   description: "Semester 3 group project",
@@ -121,7 +121,7 @@ Currently obsessed with RISC-V and open-source digital design tool-chains.
 )
 
 #resume-entry(
-  title: "Smart plug development",
+  title: "Smart plug product research and development",
   location: [#github-link("thuvasooriya/pluggu")],
   date: "Mar 2023 - May 2023",
   description: "Semester 2 group project, Short course group project",
@@ -135,7 +135,7 @@ Currently obsessed with RISC-V and open-source digital design tool-chains.
 
 
 #resume-entry(
-  title: "Two wheeled drive robot",
+  title: "STM32 two-wheeled line follower robot with simple manipulator",
   location: github-link("team-itro/sem3slrc"),
   date: "Aug 2023 - Dec 2023",
   description: "Semester 3 group project",
@@ -185,7 +185,7 @@ Currently obsessed with RISC-V and open-source digital design tool-chains.
 
 #resume-entry(
   title: "Embedded Product Design for IoT",
-  title-link: "https://www.skillsurf.lk/embedded-product-design",
+  title-link: "https://ent.uom.lk/verify/?rid=pm3TK2SphVxAqVDz8hArgSPxQ1Z5hPDh",
   location: "Colombo, SriLanka",
   date: "Aug 2023 - Nov 2023",
   description: "Short course by ENTC department UoM with Skillsurf.lk",
@@ -197,7 +197,7 @@ Currently obsessed with RISC-V and open-source digital design tool-chains.
 
 #resume-entry(
   title: "System {Verilog} for ASIC/FPGA Design & Simulation",
-  title-link: "https://www.skillsurf.lk/verilog-for-ASIC-FPGA-design-simulation",
+  title-link: "https://ent.uom.lk/verify/?rid=XZAwRkZmNtGDPWeu9PXWRudpvYQtrh",
   location: "Colombo, SriLanka",
   date: "Jan 2023 - May 2023",
   description: "Short course by ENTC department UoM with Skillsurf.lk",
