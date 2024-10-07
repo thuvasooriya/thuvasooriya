@@ -24,15 +24,15 @@
 )
 
 
-A simple human from planet earth, who loves to integrate art, science and technology to create a smile in the face of others. Moderate experience in graphic manipulation, web development, low level programming, robotics, digital design and performance optimization. 
-Currently obsessed with RISC-V and open-source digital design tool-chains. 
+From planet earth, loves to integrate art, science and technology to create a smile in the face of others. Moderate experience in systems programming, robotics, digital design, algorithms, and performance optimization. Past experience in web development, graphics manipulation.
+Currently obsessed with modular robotics, RISC-V IP design, and open-source toolchains.
 
 = Projects
 
 #resume-entry(
   title: "ViT Accelerator IP for a custom RISC-V core in FPGA",
   location: github-link("thuvasooriya/vit-malware-detector"),
-  date: "May 2024 - Present",
+  date: "May 2024 - Sep 2024",
   description: "DVCON 24 - India",
   // title-link: "https://biosense-ai.github.io/"
 )
@@ -40,36 +40,36 @@ Currently obsessed with RISC-V and open-source digital design tool-chains.
 
 #resume-item[
   - Research and Implementation project for DVCON24 to design a novel ViT accelerator IP for a custom RISC-V core
-  - Selected in the 20 teams from >100 teams in Stage 1, Stage 2a work ongoing... 
+  - Selected in the 20 teams from >100 teams in Stage 1
 ]
 
-#resume-entry(
-  title: "RISC-V RV32I pipeline-processor research and implementation",
-  // location: github-link("gatemasters/grisc32"),
-  date: "Jul 2024 - Present",
-  description: "Semester 5 group project",
-  // title-link: "https://biosense-ai.github.io/"
-)
-
-// #resume-item[
-//   - Research and Implementation project for DVCON24 to design a novel ViT accelerator IP for a custom RISC-V core
-//   - Selected in the 20 teams from >100 teams in Stage 1, Stage 2a work ongoing... 
-// ]
 
 #resume-entry(
   title: "Robot manipulator with 4 DOF",
   // location: github-link("team-itro/dum-e"),
-  date: "Jul 2024 - Present",
-  description: "Semester 5 group project",
+  date: "Sep 2024 - Present",
+  description: "Semester 5 group project | Currently in Prototyping Phase",
   // title-link: "https://biosense-ai.github.io/"
 )
 
 
 // #resume-item[
 //   - Research and Implementation project for DVCON24 to design a novel ViT accelerator IP for a custom RISC-V core
-//   - Selected in the 20 teams from >100 teams in Stage 1, Stage 2a work ongoing... 
+//   - Selected in the 20 teams from >100 teams in Stage 1, Stage 2a work ongoing...
 // ]
 
+#resume-entry(
+  title: "RISC-V RV32I pipeline-processor research and implementation",
+  // location: github-link("gatemasters/grisc32"),
+  date: "Sep 2024 - Present",
+  description: "Semester 5 group project | Currently in Literary Review Phase",
+  // title-link: "https://biosense-ai.github.io/"
+)
+
+// #resume-item[
+//   - Research and Implementation project for DVCON24 to design a novel ViT accelerator IP for a custom RISC-V core
+//   - Selected in the 20 teams from >100 teams in Stage 1, Stage 2a work ongoing...
+// ]
 
 
 #resume-entry(
@@ -86,39 +86,6 @@ Currently obsessed with RISC-V and open-source digital design tool-chains.
   - Extensive testing, benchmarking and documentation
 ]
 
-#resume-entry(
-  title: "Portable doctor companion device with SBC",
-  location: github-link("biosense-ai/biosense-ai-web-server"),
-  date: "Aug 2023 - Oct 2023",
-  description: "Mecha 23 - 2nd Runner Up",
-  title-link: "https://biosense-ai.github.io/"
-)
-
-#resume-item[
-  - Integrating ECG monitor and $"SpO"_2$ sensor with machine learning to provide helpful information in a web dashboard in any device to make screening process easier for doctors
-  - Orange-Pi Zero 2W SBC is used with custom Linux to integrate monitoring, web-server and prediction algorithms
-]
-
-#resume-entry(
-  title: "Multi-modal analysis of ECG, heart sounds and lung sounds",
-  location: github-link("biosense-ai/model-xai"),
-  date: "Mar 2024 - Present",
-  description: "Brainstorm 24",
-  // title-link: "https://biosense-ai.github.io/"
-)
-
-#resume-item[
-  - Continuation of the portable screening device, focusing on the prediction of the model
-  - Validation of results using back propagation to identify decisive sections
-]
-
-#resume-entry(
-  title: "Analog ECG monitor PCB development",
-  // location: github-link("biosense-ai/biosense-ai-web-server"),
-  date: "Aug 2023 - Oct 2023",
-  description: "Semester 3 group project",
-  // title-link: "https://biosense-ai.github.io/"
-)
 
 #resume-entry(
   title: "Smart plug product research and development",
@@ -147,17 +114,62 @@ Currently obsessed with RISC-V and open-source digital design tool-chains.
   // - Extensive testing of micro controllers : rp2040, stm32f411, stm32f405
 ]
 
+#resume-entry(
+  title: "Portable doctor companion device with SBC",
+  location: github-link("biosense-ai/biosense-ai-web-server"),
+  date: "Aug 2023 - Oct 2023",
+  description: "Mecha 23 - 2nd Runner Up",
+  title-link: "https://biosense-ai.github.io/"
+)
 
+#resume-item[
+  - Integrating ECG monitor and $"SpO"_2$ sensor with machine learning to provide helpful information in a web dashboard in any device to make screening process easier for doctors
+  - Orange-Pi Zero 2W SBC is used with custom Linux to integrate monitoring, web-server and prediction algorithms
+]
+
+// #resume-entry(
+//   title: "Multi-modal analysis of ECG, heart sounds and lung sounds",
+//   location: github-link("biosense-ai/model-xai"),
+//   date: "Mar 2024 - Present",
+//   description: "Brainstorm 24",
+//   // title-link: "https://biosense-ai.github.io/"
+// )
+//
+// #resume-item[
+//   - Continuation of the portable screening device, focusing on the prediction of the model
+//   - Validation of results using back propagation to identify decisive sections
+// ]
+
+#resume-entry(
+  title: "Maze Solving Micromouse",
+  location: github-link("team-itro/kitro"),
+  date: "Sep 2024 - Present",
+  description: "RoboFest 24",
+  // title-link: "https://biosense-ai.github.io/"
+)
+
+#resume-item[
+  - Maze Solving micromouse using STM32F411 microcontroller.
+  - Participated in RoboFest 24, Research on $2^("nd")$ prototype ongoing.
+]
+#resume-entry(
+  title: "Analog ECG monitor PCB development",
+  // location: github-link("biosense-ai/biosense-ai-web-server"),
+  date: "Aug 2023 - Oct 2023",
+  description: "Semester 3 group project",
+  // title-link: "https://biosense-ai.github.io/"
+)
 = Skills
 
 #resume-skill-item(
   "Programming",
-  (strong("C"), strong("System{Verilog}"), strong("Python"), strong("JavaScript"), "C++", "Zig", "Lua", "Nix"),
+  (strong("C/C++"), strong("System{Verilog}"), strong("Python"), strong("JavaScript"), "Zig", "Lua", "Nix"),
 )
+
 #resume-skill-item("Languages", (strong("English"), strong("Tamil"), "Sinhala", "Japanese", "French"))
 #resume-skill-item(
-  "Programs",
-  (strong("KiCAD / Altium Designer"), "SolidWorks", "MATLAB", "LT Spice", "Verilator"),
+  "Tools",
+  (strong("KiCAD / Altium Designer"), "SolidWorks", "ROS", "MATLAB", "Verilator", "Vivado"),
 )
 
 = Achievements
@@ -172,14 +184,14 @@ Currently obsessed with RISC-V and open-source digital design tool-chains.
   title-link: "https://ent.uom.lk/",
   location: "Colombo, SriLanka",
   date: "2021 - Present",
-  description: "University of Moratuwa",
+  description: [University of Moratuwa | Current CGPA - *$3.715$*],
 )
 
 #resume-entry(
   title: "Charted Global Management Accounting (CGMA)",
   location: "Colombo, SriLanka",
   date: "2021 - Present",
-  description: "Achievers Lanka | Level 1 Completed",
+  description: "Achievers Lanka |  Certificate Level Completed",
 )
 
 
@@ -256,14 +268,8 @@ Currently obsessed with RISC-V and open-source digital design tool-chains.
   - Banner designs
 ]
 
+
 = References
-
-// #resume-entry(
-//   title: "Sayanthi. R",
-//   location: "sayanthiselvarasa@gmail.com",
-//   description: "Assoiate Lecturer, Uki Coding School",
-// )
-
 
 #resume-entry(
   title: "Dr. Ranga Rodrigo",

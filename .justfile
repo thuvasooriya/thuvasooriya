@@ -1,2 +1,2 @@
 cv:
-    typst watch cv.typ --font-path fonts
+    typst watch cv.typ --font-path assets/fonts
