@@ -24,10 +24,25 @@
 )
 
 
-From planet earth, loves to integrate art, science and technology to create a smile in the face of others. Moderate experience in systems programming, robotics, digital design, algorithms, and performance optimization. Past experience in web development, graphics manipulation.
-Currently obsessed with modular robotics, RISC-V IP design, and open-source toolchains.
+From planet earth, loves to integrate art, science and technology to create a smile in the face of others. Moderate experience in systems programming, robotics, digital design, algorithms, and performance optimization.
+
+Complimentary experience in web development, cross-platform app development, audio manipulation, and graphics manipulation.
+Currently obsessed with modular robotics, RISC-V IP design, open-source toolchains, and devops of corresponding workflows.
 
 = Projects
+
+#resume-entry(
+  title: "Qwen3-0.6B inference pipeline on custom RV32IM core in FPGA",
+  location: github-link("thuvasooriya/ip_gemma"),
+  date: "May 2025 - Sep 2025",
+  description: "DVCON 25 - India: 1st Runner's Up",
+  // title-link: "https://biosense-ai.github.io/"
+)
+
+#resume-item[
+  - Research and Implementation project for DVCON25 to design a novel resource efficient accelerator IP for a custom RV32IM core
+  - Ran whole inference pipeline of Qwen3-0.6B with Q8 quantization and custom token embeddings
+]
 
 #resume-entry(
   title: "ViT Accelerator IP for a custom RISC-V core in FPGA",
@@ -44,13 +59,13 @@ Currently obsessed with modular robotics, RISC-V IP design, and open-source tool
 ]
 
 
-#resume-entry(
-  title: "Robot manipulator with 4 DOF",
-  // location: github-link("team-itro/dum-e"),
-  date: "Sep 2024 - Present",
-  description: "Semester 5 group project | Currently in Prototyping Phase",
-  // title-link: "https://biosense-ai.github.io/"
-)
+// #resume-entry(
+//   title: "Robot manipulator with 4 DOF",
+//   // location: github-link("team-itro/dum-e"),
+//   date: "Sep 2024 - Nov 2024",
+//   description: "Semester 5 group project",
+//   // title-link: "https://biosense-ai.github.io/"
+// )
 
 
 // #resume-item[
@@ -58,18 +73,7 @@ Currently obsessed with modular robotics, RISC-V IP design, and open-source tool
 //   - Selected in the 20 teams from >100 teams in Stage 1, Stage 2a work ongoing...
 // ]
 
-#resume-entry(
-  title: "RISC-V RV32I pipeline-processor research and implementation",
-  // location: github-link("gatemasters/grisc32"),
-  date: "Sep 2024 - Present",
-  description: "Semester 5 group project | Currently in Literary Review Phase",
-  // title-link: "https://biosense-ai.github.io/"
-)
 
-// #resume-item[
-//   - Research and Implementation project for DVCON24 to design a novel ViT accelerator IP for a custom RISC-V core
-//   - Selected in the 20 teams from >100 teams in Stage 1, Stage 2a work ongoing...
-// ]
 
 
 #resume-entry(
@@ -77,7 +81,7 @@ Currently obsessed with modular robotics, RISC-V IP design, and open-source tool
   location: github-link("mora-bprs/sam-model"),
   date: "March 2024 - June 2024",
   description: "Semester 4 group project",
-  title-link: "https://mora-bprs.github.io/"
+  title-link: "https://mora-bprs.github.io/",
 )
 
 #resume-item[
@@ -119,11 +123,11 @@ Currently obsessed with modular robotics, RISC-V IP design, and open-source tool
   location: github-link("biosense-ai/biosense-ai-web-server"),
   date: "Aug 2023 - Oct 2023",
   description: "Mecha 23 - 2nd Runner Up",
-  title-link: "https://biosense-ai.github.io/"
+  title-link: "https://biosense-ai.github.io/",
 )
 
 #resume-item[
-  - Integrating ECG monitor and $"SpO"_2$ sensor with machine learning to provide helpful information in a web dashboard in any device to make screening process easier for doctors
+  - Integrating ECG monitor and $"SpO"_2$ sensor with machine learning to make screening process easier for doctors
   - Orange-Pi Zero 2W SBC is used with custom Linux to integrate monitoring, web-server and prediction algorithms
 ]
 
@@ -159,22 +163,86 @@ Currently obsessed with modular robotics, RISC-V IP design, and open-source tool
   description: "Semester 3 group project",
   // title-link: "https://biosense-ai.github.io/"
 )
+
+#resume-entry(
+  title: "Semester 5 Group Projects",
+  // location: github-link("gatemasters/grisc32"),
+  date: "Sep 2024 - Dec 2024",
+  description: "Demonstrated as per corresponding modules",
+  // title-link: "https://biosense-ai.github.io/"
+)
+
+#resume-item[
+  - RISC-V RV32I pipeline-processor research and implementation
+  - Single Precision FPU IP research and implementation
+  - Robot manipulator with 4 DOF
+]
+
+#resume-entry(
+  title: "Semester 7 Group Projects",
+  // location: github-link("gatemasters/grisc32"),
+  date: "Sep 2025 - Present",
+  description: "In Progress as per module requirements",
+  // title-link: "https://biosense-ai.github.io/"
+)
+
+#resume-item[
+  - #link(
+      "https://github.com/thuvasooriya/ros2labs",
+    )[ROS2 Labs and cross-platform testing]
+  - BitSerial Bus implementation with 3 masters and 3 slaves
+  - MNIST Co-Processor-Accelerator IP implementation
+  - #link(
+      "https://github.com/thuvasooriya/promoter-analysis",
+    )[Promoter Analysis]
+]
 = Skills
 
 #resume-skill-item(
   "Programming",
-  (strong("C/C++"), strong("System{Verilog}"), strong("Python"), strong("JavaScript"), "Zig", "Lua", "Nix"),
+  (
+    strong("C/C++"),
+    strong("System{Verilog}"),
+    strong("Python"),
+    strong("TypeScript"),
+    strong("Zig"),
+    "Rust",
+    "Lua",
+    "Nix",
+  ),
 )
 
-#resume-skill-item("Languages", (strong("English"), strong("Tamil"), "Sinhala", "Japanese", "French"))
+#resume-skill-item("Languages", (
+  strong("English"),
+  strong("Tamil"),
+  "Sinhala",
+  "Japanese",
+  "French",
+))
 #resume-skill-item(
   "Tools",
-  (strong("KiCAD / Altium Designer"), "SolidWorks", "ROS", "MATLAB", "Verilator", "Vivado"),
+  (
+    strong("KiCAD / Altium Designer"),
+    strong("Vivado / Verilator"),
+    strong("ROS"),
+    "SolidWorks",
+    "MATLAB",
+  ),
 )
 
 = Achievements
-#resume-skill-item("Lead", (strong("Deputy Batch Representative"), "Engineering Faculty, University of Moratuwa", strong("\nSenior(Head) Prefect"), "2020, Jaffna Hindu College"))
-#resume-skill-item("Awards", (strong("Right To Information Act, National Debate - 1st Place"),"Tamil","Team Lead",strong("\nAll Island Senior Dialog Drama - 3rd Place")))
+#resume-skill-item("Lead", (
+  strong("Deputy Batch Representative"),
+  "Engineering Faculty, University of Moratuwa",
+  strong("\nSenior(Head) Prefect"),
+  "2020, Jaffna Hindu College",
+))
+#resume-skill-item("Awards", (
+  strong("Right To Information Act, National Debate - 1st Place"),
+  "Tamil",
+  "Team Lead",
+  strong("\nAll Island Senior Dialog Drama - 3rd Place"),
+))
 // #resume-skill-item("Community", (strong("Right To Information Act, National Debate - 1st Place"),"Tamil","Team Lead",strong("\nAll Island Senior Dialog Drama - 3rd Place")))
 
 = Education
@@ -241,6 +309,21 @@ Currently obsessed with modular robotics, RISC-V IP design, and open-source tool
 = Experience
 
 #resume-entry(
+  title: "Research Assistant - Internship",
+  location: "Remote - Singapore",
+  date: "2024 Dec - 2025 Jul",
+  description: "School of Computer Science and Engineering (SCSE), NTU",
+  title-link: "https://www.ntu.edu.sg/",
+)
+
+#resume-item[
+  - C99 Bundle adjustment implementation
+  - Implementation and comparision of QEMU, LiteX-Sim, Chipyard, and ZCU-102 compilation and workflows
+  - Literary review of Vector processing options for Rocket core
+  - ARM core and Rocket core shared memory implementation of SLAM workflow
+]
+
+#resume-entry(
   title: "Junior Graphic Designer",
   location: "Jaffna, SriLanka",
   date: "2020 - 2021",
@@ -248,25 +331,13 @@ Currently obsessed with modular robotics, RISC-V IP design, and open-source tool
   title-link: "https://g.co/kgs/bbdy7Nr",
 )
 
-#resume-item[
-  - Flyer creation and editing
-  - Graphic manipulation
-  - Magazines and books compilation and editing
-]
-
 #resume-entry(
   title: "Digital Marketing Assistant",
   location: "Jaffna, SriLanka",
   date: "2021",
   description: "Ecosteem Pvt. Ltd.",
-  title-link: "https://ecosteem.lk/"
+  title-link: "https://ecosteem.lk/",
 )
-
-#resume-item[
-  - Social media content creation and moderation
-  - Product modeling and marketing image generation
-  - Banner designs
-]
 
 
 = References
@@ -275,12 +346,12 @@ Currently obsessed with modular robotics, RISC-V IP design, and open-source tool
   title: "Dr. Ranga Rodrigo",
   location: "ranga@uom.lk",
   description: "B.Sc. Eng. Hons. (Moratuwa), M.E.Sc. (Western, Canada), Ph.D. (Western, Canada), SMIEEE \nSenior Lecturer, University of Moratuwa",
-  title-link: "https://ent.uom.lk/team/dr-ranga-rodrigo/"
+  title-link: "https://ent.uom.lk/team/dr-ranga-rodrigo/",
 )
 
 #resume-entry(
   title: "Senthilmaran Ratnam",
   location: "senthilmaran@gmail.com",
   description: "Principal, Jaffna Hindu College | LLB Law Hons.",
-  title-link: "https://www.linkedin.com/in/senthilmaran-ratnam-387aa459/"
+  title-link: "https://www.linkedin.com/in/senthilmaran-ratnam-387aa459/",
 )
