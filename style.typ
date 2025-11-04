@@ -27,6 +27,7 @@
 #let phone-icon = box(fa-icon("square-phone", fill: color-darknight))
 #let email-icon = box(fa-icon("envelope", fill: color-darknight))
 #let birth-icon = box(fa-icon("cake", fill: color-darknight))
+#let calendar-icon = box(fa-icon("calendar", fill: color-gray))
 
 /// Helpers
 
@@ -353,6 +354,9 @@
               "https://scholar.google.com/citations?user=" + author.scholar,
             )[#fullname]]
           ]
+          #separator
+          #calendar-icon
+          #box[#text(fill: color-gray)[Last updated: #date]]
         ]
       ]
     ]
