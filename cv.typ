@@ -147,7 +147,7 @@ Currently obsessed with modular robotics, RISC-V IP design, open-source toolchai
 #resume-entry(
   title: "Maze Solving Micromouse",
   location: github-link("team-itro/kitro"),
-  date: "Sep 2024 - Present",
+  date: "Sep 2024 - Dec 2024",
   description: "RoboFest 24",
   // title-link: "https://biosense-ai.github.io/"
 )
