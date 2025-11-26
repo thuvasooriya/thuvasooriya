@@ -350,6 +350,20 @@ Currently obsessed with modular robotics, RISC-V IP design, open-source toolchai
 )
 
 #resume-entry(
+  title: "Dr. Thayaparan Subramaniam",
+  location: "thayaparan@uom.lk",
+  description: "B.Sc.Eng (Peradeniya), Ph.D (HKU) \nSenior Lecturer, University of Moratuwa",
+  title-link: "https://ent.uom.lk/team/dr-thayaparan-subramaniam/",
+)
+
+#resume-entry(
+  title: "Dr. Chamira U. S. Edussooriya",
+  location: "charmira@uom.lk",
+  description: "B.Sc.Eng. (Moratuwa) M.A.Sc., Ph.D. (UVic), MIEEE \nSenior Lecturer, University of Moratuwa",
+  title-link: "https://ent.uom.lk/team/dr-chamira-u-s-edussooriya/",
+)
+
+#resume-entry(
   title: "Senthilmaran Ratnam",
   location: "senthilmaran@gmail.com",
   description: "Principal, Jaffna Hindu College | LLB Law Hons.",
