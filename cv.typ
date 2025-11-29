@@ -215,16 +215,16 @@ Currently obsessed with modular robotics, RISC-V IP design, open-source toolchai
 #resume-skill-item("Languages", (
   strong("English"),
   strong("Tamil"),
-  "Sinhala",
   "Japanese",
+  "Sinhala",
   "French",
 ))
 #resume-skill-item(
   "Tools",
   (
-    strong("KiCAD / Altium Designer"),
     strong("Vivado / Verilator"),
     strong("ROS"),
+    "KiCAD / Altium Designer",
     "SolidWorks",
     "MATLAB",
   ),
