@@ -29,6 +29,134 @@ From planet earth, loves to integrate art, science and technology to create a sm
 Complimentary experience in web development, cross-platform app development, audio manipulation, and graphics manipulation.
 Currently obsessed with modular robotics, RISC-V IP design, open-source toolchains, and devops of corresponding workflows.
 
+
+= Experience
+
+#resume-entry(
+  title: "Research Assistant - Internship",
+  location: "Remote - Singapore",
+  date: "2024 Dec - 2025 Jul",
+  description: "College of Computing & Data Science (CCDS), NTU",
+  title-link: "https://www.ntu.edu.sg/",
+)
+
+#resume-item[
+  - C99 Bundle adjustment implementation
+  - QEMU, LiteX-Sim, Chipyard, and ZCU-102 compilation and workflows
+  - Literary review of vector processing options for Rocket core
+  - Cross Core shared memory workflows
+]
+
+// #resume-entry(
+//   title: "Junior Graphic Designer",
+//   location: "Jaffna, SriLanka",
+//   date: "2020 - 2021",
+//   description: "Mathi Colours Printers",
+//   title-link: "https://g.co/kgs/bbdy7Nr",
+// )
+//
+// #resume-entry(
+//   title: "Digital Marketing Assistant",
+//   location: "Jaffna, SriLanka",
+//   date: "2021",
+//   description: "Ecosteem Pvt. Ltd.",
+//   title-link: "https://ecosteem.lk/",
+// )
+
+= Education
+
+#resume-entry(
+  title: "BSc. in Engineering - Electronics and Telecommunication",
+  title-link: "https://ent.uom.lk/",
+  location: "Colombo, SriLanka",
+  date: "2021 - Present",
+  description: [University of Moratuwa | Current CGPA - *$3.715$*],
+)
+
+#resume-entry(
+  title: "Charted Global Management Accounting (CGMA)",
+  location: "Colombo, SriLanka",
+  date: "2021",
+  description: "Achievers Lanka |  Certificate Level Completed",
+)
+
+
+// #resume-entry(
+//   title: "Embedded Product Design for IoT",
+//   title-link: "https://ent.uom.lk/verify/?rid=pm3TK2SphVxAqVDz8hArgSPxQ1Z5hPDh",
+//   location: "Colombo, SriLanka",
+//   date: "Aug 2023 - Nov 2023",
+//   description: "Short course by ENTC department UoM with Skillsurf.lk",
+// )
+//
+// #resume-item[
+//   - PCB design, firmware development, enclosure design in OnShape, end 2 end connectivity in web dashboard
+// ]
+
+#resume-entry(
+  title: "System {Verilog} for ASIC/FPGA Design & Simulation",
+  title-link: "https://ent.uom.lk/verify/?rid=XZAwRkZmNtGDPWeu9PXWRudpvYQtrh",
+  location: "Colombo, SriLanka",
+  date: "Jan 2023 - May 2023",
+  description: "Short course by ENTC department UoM with Skillsurf.lk",
+)
+
+#resume-item[
+  - Assignment 3 - ASIC flow report for MVM UART using SAED 32nm EDK & Synopsys design compiler
+  - Assignment 4 - FPGA implementation and demo of MVM UART
+]
+
+// #resume-entry(
+//   title: "Full Stack Web Development (MERN Stack)",
+//   title-link: "https://www.yarlithub.org/uki/#",
+//   location: "Jaffna, SriLanka",
+//   date: "Feb 2021 - July 2021",
+//   description: "Uki Coding School - Digital Cohort 1",
+// )
+
+
+#resume-entry(
+  title: "Secondary Education",
+  title-link: "https://www.facebook.com/JaffnaHinducollegeOfficial/",
+  location: "Jaffna, SriLanka",
+  date: "2011 - 2020",
+  description: "Jaffna Hindu College | G.C.E. OL - 9A | G.C.E. AL - 3A",
+)
+
+= Skills
+
+#resume-skill-item(
+  "Programming",
+  (
+    strong("C/C++"),
+    strong("System{Verilog}"),
+    strong("Python"),
+    strong("TypeScript"),
+    strong("Zig"),
+    "Rust",
+    "Lua",
+    "Nix",
+  ),
+)
+
+#resume-skill-item("Languages", (
+  strong("English"),
+  strong("Tamil"),
+  "Japanese",
+  "Sinhala",
+  "French",
+))
+#resume-skill-item(
+  "Tools",
+  (
+    strong("Vivado / Verilator"),
+    strong("ROS"),
+    "KiCAD / Altium Designer",
+    "SolidWorks",
+    "MATLAB",
+  ),
+)
+
 = Projects
 
 #resume-entry(
@@ -196,39 +324,6 @@ Currently obsessed with modular robotics, RISC-V IP design, open-source toolchai
       "https://github.com/thuvasooriya/promoter-analysis",
     )[Promoter Analysis]
 ]
-= Skills
-
-#resume-skill-item(
-  "Programming",
-  (
-    strong("C/C++"),
-    strong("System{Verilog}"),
-    strong("Python"),
-    strong("TypeScript"),
-    strong("Zig"),
-    "Rust",
-    "Lua",
-    "Nix",
-  ),
-)
-
-#resume-skill-item("Languages", (
-  strong("English"),
-  strong("Tamil"),
-  "Japanese",
-  "Sinhala",
-  "French",
-))
-#resume-skill-item(
-  "Tools",
-  (
-    strong("Vivado / Verilator"),
-    strong("ROS"),
-    "KiCAD / Altium Designer",
-    "SolidWorks",
-    "MATLAB",
-  ),
-)
 
 = Achievements
 #resume-skill-item("Lead", (
@@ -245,99 +340,8 @@ Currently obsessed with modular robotics, RISC-V IP design, open-source toolchai
 ))
 // #resume-skill-item("Community", (strong("Right To Information Act, National Debate - 1st Place"),"Tamil","Team Lead",strong("\nAll Island Senior Dialog Drama - 3rd Place")))
 
-= Education
-
-#resume-entry(
-  title: "BSc. in Engineering - Electronics and Telecommunication",
-  title-link: "https://ent.uom.lk/",
-  location: "Colombo, SriLanka",
-  date: "2021 - Present",
-  description: [University of Moratuwa | Current CGPA - *$3.715$*],
-)
-
-#resume-entry(
-  title: "Charted Global Management Accounting (CGMA)",
-  location: "Colombo, SriLanka",
-  date: "2021 - Present",
-  description: "Achievers Lanka |  Certificate Level Completed",
-)
 
 
-#resume-entry(
-  title: "Embedded Product Design for IoT",
-  title-link: "https://ent.uom.lk/verify/?rid=pm3TK2SphVxAqVDz8hArgSPxQ1Z5hPDh",
-  location: "Colombo, SriLanka",
-  date: "Aug 2023 - Nov 2023",
-  description: "Short course by ENTC department UoM with Skillsurf.lk",
-)
-
-#resume-item[
-  - PCB design, firmware development, enclosure design in OnShape, end 2 end connectivity in web dashboard
-]
-
-#resume-entry(
-  title: "System {Verilog} for ASIC/FPGA Design & Simulation",
-  title-link: "https://ent.uom.lk/verify/?rid=XZAwRkZmNtGDPWeu9PXWRudpvYQtrh",
-  location: "Colombo, SriLanka",
-  date: "Jan 2023 - May 2023",
-  description: "Short course by ENTC department UoM with Skillsurf.lk",
-)
-
-#resume-item[
-  - Assignment 3 - ASIC flow report for MVM UART using SAED 32nm EDK & Synopsys design compiler
-  - Assignment 4 - FPGA implementation and demo of MVM UART
-]
-
-#resume-entry(
-  title: "Full Stack Web Development (MERN Stack)",
-  title-link: "https://www.yarlithub.org/uki/#",
-  location: "Jaffna, SriLanka",
-  date: "Feb 2021 - July 2021",
-  description: "Uki Coding School - Digital Cohort 1",
-)
-
-
-#resume-entry(
-  title: "Secondary Education",
-  title-link: "https://www.facebook.com/JaffnaHinducollegeOfficial/",
-  location: "Jaffna, SriLanka",
-  date: "2011 - 2020",
-  description: "Jaffna Hindu College | G.C.E. OL - 9A | G.C.E. AL - 3A",
-)
-
-
-= Experience
-
-#resume-entry(
-  title: "Research Assistant - Internship",
-  location: "Remote - Singapore",
-  date: "2024 Dec - 2025 Jul",
-  description: "School of Computer Science and Engineering (SCSE), NTU",
-  title-link: "https://www.ntu.edu.sg/",
-)
-
-#resume-item[
-  - C99 Bundle adjustment implementation
-  - Implementation and comparision of QEMU, LiteX-Sim, Chipyard, and ZCU-102 compilation and workflows
-  - Literary review of Vector processing options for Rocket core
-  - ARM core and Rocket core shared memory implementation of SLAM workflow
-]
-
-#resume-entry(
-  title: "Junior Graphic Designer",
-  location: "Jaffna, SriLanka",
-  date: "2020 - 2021",
-  description: "Mathi Colours Printers",
-  title-link: "https://g.co/kgs/bbdy7Nr",
-)
-
-#resume-entry(
-  title: "Digital Marketing Assistant",
-  location: "Jaffna, SriLanka",
-  date: "2021",
-  description: "Ecosteem Pvt. Ltd.",
-  title-link: "https://ecosteem.lk/",
-)
 
 
 = References
