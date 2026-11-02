@@ -13,7 +13,7 @@
     linkedin: "thuvasooriya",
     // address: "111 Example St. Example City, EX 11111",
     positions: (
-      "Engineering Undergrad",
+      "PhD Student",
       "Designer",
       "Developer",
     ),
@@ -66,11 +66,19 @@ Currently obsessed with modular robotics, RISC-V IP design, open-source toolchai
 = Education
 
 #resume-entry(
+  title: "PhD Student",
+  title-link: "https://www.ntu.edu.sg/",
+  location: "Singapore",
+  date: "Aug 2026 - Present",
+  description: "College of Computing & Data Science (CCDS), Nanyang Technological University (NTU)",
+)
+
+#resume-entry(
   title: "BSc. in Engineering - Electronics and Telecommunication",
   title-link: "https://ent.uom.lk/",
   location: "Colombo, SriLanka",
-  date: "2021 - Present",
-  description: [University of Moratuwa | Current CGPA - *$3.715$*],
+  date: "2021 - 2026",
+  description: [University of Moratuwa | OGPA - *$3.75$* | First Class],
 )
 
 #resume-entry(
